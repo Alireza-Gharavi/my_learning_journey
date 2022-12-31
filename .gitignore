@@ -29,3 +29,6 @@ env.bak/
 venv.bak/
 
 __pycache__/
+
+# My stuff
+inspired_from_others/
