@@ -33,7 +33,5 @@ __pycache__/
 # My stuff
 inspired_from_others/
 datasets/
-
-
-# temporary 
-ANN.ipynb
+naive_implementations.ipynb
+ANN's_from_scratch/
